@@ -43,7 +43,8 @@ python app.py
 ---
 Скриншоты 
 
- [](https://github.com/meha001/Mendeleev-s-table/blob/main/image.png)
+<img width="1891" height="928" alt="image" src="https://github.com/user-attachments/assets/edce366a-56d9-4e9c-9fa3-26302771a1f1" />
+
 
 ---
 ### ✅ `CONTRIBUTING.md`
