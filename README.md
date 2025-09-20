@@ -41,7 +41,7 @@ python app.py
 
 
 ---
-Скриншоты 
+
 
 <img width="1281" height="934" alt="image" src="https://github.com/user-attachments/assets/c3079726-c288-471d-a59b-2bbe31545e0a" />
 
