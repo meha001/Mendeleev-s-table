@@ -16,7 +16,7 @@
 
 - HTML, CSS, JavaScript
 - Flask (Python)
-- Развёрнуто на [PythonAnywhere](https://www.pythonanywhere.com/)
+- Развёрнуто на [https://www.pythonanywhere.com/](https://mendeleevs0table.pythonanywhere.com/))
 
 ## 🚀 Как запустить локально
 
