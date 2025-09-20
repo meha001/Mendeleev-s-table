@@ -43,7 +43,7 @@ python app.py
 ---
 Скриншоты 
 
-<img width="1891" height="928" alt="image" src="https://github.com/user-attachments/assets/edce366a-56d9-4e9c-9fa3-26302771a1f1" />
+<img width="1281" height="934" alt="image" src="https://github.com/user-attachments/assets/c3079726-c288-471d-a59b-2bbe31545e0a" />
 
 
 ---
